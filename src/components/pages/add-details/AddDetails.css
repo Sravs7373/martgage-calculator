@@ -1,0 +1,37 @@
+.add-details-main-area{
+    padding: 50px 0;
+}
+table, th, td {
+    border: 1px solid var(--para-color);
+    border-collapse: collapse;
+    padding: 8px;
+  }
+  .mortgage-table{
+    width: 100%;
+  }
+  th:nth-child(even),td:nth-child(even) {
+    background-color: var(--border-color);
+  }
+  .btn-crowd{
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  .btn-crowd button{
+    padding: 5px 14px;
+  }
+  .delete{
+    background-color: var(--colors-1);
+  }
+  .upate{
+    background-color: var(--para-color);
+  }
+  .add-area{
+    padding: 10px 0;
+    text-align: end;
+  }
+  .add{
+    padding: 10px 30px;
+    background-color: var(--header-bg-color);
+    font-size: 18px;
+  }

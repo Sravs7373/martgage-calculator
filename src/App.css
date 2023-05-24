@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap');
+:root{
+  --heading-fontSize: 30px;
+  --para-fontSize: 16px;
+  --box-shadow:rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  --box-radius:5px;
+  --heading-color:'#372948';
+  --para-color: #474E68;
+  --border-color:#FFE3E1;
+  --bg-color:#EEEEEE;
+  --colors-1:#FF4A4A;
+  --color-2:#6FEDD6;
+  --btn-color:#5BB318;
+  --header-bg-color:#242F9B;
+}
+.overFlow-Hidden{
+  overflow: hidden;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Crimson Text';
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Crimson Text';
+  color: var(--heading-color);
+}
+h1,h2,h3{
+  font-size: var(--heading-fontSize);
+  font-weight: 700;
+}
+h4,h5,h6{
+  font-size: 20px;
+  font-weight: 600;
+}
+p{
+  font-family: 'Alata';
+  font-weight: 400;
+  line-height: 24px;
+  font-size: var(--para-fontSize);
+  color: var(--para-color);
+}
+body{
+  background-color: var(--bg-color);
+}
+.flex{
+  display: flex;
+  gap: 10px;
+}
+.grid{
+  display: grid;
+  gap: 10px;
+}
+.none{
+  display: none;
+}
+a{
+  color:var(--color-2);
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+button{
+  outline: none;
+  border: 1px solid var(--border-color);
+  border-radius: var(--box-radius);
+  background-color: var(--btn-color);
+  cursor: pointer;
+  color: #fff;
+}
+.container{
+  width: 1100px;
+  margin:0 auto;
+}
+.loader{
+  text-align: center;
+  font-size: 24px;
+  margin: 20px 0;
+  font-weight: 500;
+  color: #242F9B;
+}

@@ -1,0 +1,57 @@
+.mort-model-container{
+    width: 600px;
+}
+.mort-model-container h5{
+    margin: 20px 0;
+}
+.add-mort-form-area{
+    padding: 20px;
+}
+.mort-inputs-area{
+    width: 100%;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+.span-input{
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.loan-amount-area{
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 0;
+}
+.loanAmount{
+    width: 100%;
+}
+.span-input{
+    width: 100%;
+    gap: 0;
+}
+.loan-amount-area input,.span-input input,.span-input select{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: 1px solid var(--border-color);
+    border-radius: var(--box-radius);
+}
+.loan-amount-area span,.span-input span{
+    margin: 10px 0;
+    padding: 0;
+}
+.add-form-btn{
+    justify-content: center;
+   align-items: center;
+   gap: 40px;
+   margin: 20px 0;
+}
+.add-form-btn button{
+    padding: 10px 50px;
+    font-size: 16px;
+}
+.cancel-btn{
+    background-color: var(--colors-1);
+}

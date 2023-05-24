@@ -1,0 +1,14 @@
+.header-main-area{
+    background-color: var(--header-bg-color);
+    padding: 10px;
+}
+.nav-list{
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+}
+a.active{
+    color: #fff;
+    background-color: var(--color-2);
+  }
