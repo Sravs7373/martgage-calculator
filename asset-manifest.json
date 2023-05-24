@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/martgage-calculator/static/css/main.6c7c20eb.css",
+    "main.js": "/martgage-calculator/static/js/main.c3002302.js",
+    "static/css/221.42ea35b6.chunk.css": "/martgage-calculator/static/css/221.42ea35b6.chunk.css",
+    "static/js/221.36d53375.chunk.js": "/martgage-calculator/static/js/221.36d53375.chunk.js",
+    "static/css/857.97e528b3.chunk.css": "/martgage-calculator/static/css/857.97e528b3.chunk.css",
+    "static/js/857.5e098493.chunk.js": "/martgage-calculator/static/js/857.5e098493.chunk.js",
+    "static/css/486.82848f41.chunk.css": "/martgage-calculator/static/css/486.82848f41.chunk.css",
+    "static/js/486.a4aeb52f.chunk.js": "/martgage-calculator/static/js/486.a4aeb52f.chunk.js",
+    "static/css/660.52bc41d8.chunk.css": "/martgage-calculator/static/css/660.52bc41d8.chunk.css",
+    "static/js/660.5de71dd4.chunk.js": "/martgage-calculator/static/js/660.5de71dd4.chunk.js",
+    "static/js/787.2be84fa0.chunk.js": "/martgage-calculator/static/js/787.2be84fa0.chunk.js",
+    "static/js/742.67f3f417.chunk.js": "/martgage-calculator/static/js/742.67f3f417.chunk.js",
+    "static/js/664.b31c2b33.chunk.js": "/martgage-calculator/static/js/664.b31c2b33.chunk.js",
+    "index.html": "/martgage-calculator/index.html",
+    "main.6c7c20eb.css.map": "/martgage-calculator/static/css/main.6c7c20eb.css.map",
+    "main.c3002302.js.map": "/martgage-calculator/static/js/main.c3002302.js.map",
+    "221.42ea35b6.chunk.css.map": "/martgage-calculator/static/css/221.42ea35b6.chunk.css.map",
+    "221.36d53375.chunk.js.map": "/martgage-calculator/static/js/221.36d53375.chunk.js.map",
+    "857.97e528b3.chunk.css.map": "/martgage-calculator/static/css/857.97e528b3.chunk.css.map",
+    "857.5e098493.chunk.js.map": "/martgage-calculator/static/js/857.5e098493.chunk.js.map",
+    "486.82848f41.chunk.css.map": "/martgage-calculator/static/css/486.82848f41.chunk.css.map",
+    "486.a4aeb52f.chunk.js.map": "/martgage-calculator/static/js/486.a4aeb52f.chunk.js.map",
+    "660.52bc41d8.chunk.css.map": "/martgage-calculator/static/css/660.52bc41d8.chunk.css.map",
+    "660.5de71dd4.chunk.js.map": "/martgage-calculator/static/js/660.5de71dd4.chunk.js.map",
+    "787.2be84fa0.chunk.js.map": "/martgage-calculator/static/js/787.2be84fa0.chunk.js.map",
+    "742.67f3f417.chunk.js.map": "/martgage-calculator/static/js/742.67f3f417.chunk.js.map",
+    "664.b31c2b33.chunk.js.map": "/martgage-calculator/static/js/664.b31c2b33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c7c20eb.css",
+    "static/js/main.c3002302.js"
+  ]
+}
